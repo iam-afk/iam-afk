@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![andreyrmg's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyrmg&layout=compact&theme=dark&langs_count=8)](#)
 <!--
 **andreyrmg/andreyrmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
